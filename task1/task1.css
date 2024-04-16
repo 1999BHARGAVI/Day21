@@ -1,0 +1,286 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+table{
+    width: 2000px;
+    height: 1000px;
+}
+/*first column*/
+#red{
+    transition: all 5s;
+    color: red;
+    
+}
+#red:hover{
+    background-color: red;
+    transform: rotate(360deg);
+    color: transparent;
+}
+#blue{
+    transition: all 5s;
+    color: blue;
+    
+}
+#blue:hover{
+    background-color: blue;
+    transform: rotate(360deg);
+    color: transparent;
+}
+#yellow{
+    transition: all 5s;
+    color:yellow;
+    
+}
+#yellow:hover{
+    background-color: yellow;
+    transform: rotate(360deg);
+    color: transparent;
+}
+#purple{
+    transition: all 5s;
+    color:purple;
+    
+}
+#purple:hover{
+    background-color:purple;
+    transform: rotate(360deg);
+    color: transparent;
+}
+#black{
+    transition: all 5s;
+    color:black;
+    
+}
+#black:hover{
+    background-color:black;
+    transform: rotate(360deg);
+    color: transparent;
+}
+/*2nd column*/
+#gold{
+    transition: all 5s;
+    color:gold;
+    
+}
+#gold:hover{
+    background-color:gold;
+    transform: rotate(360deg);
+    color: transparent;
+}
+
+#indigo{
+    transition: all 5s;
+    color:indigo;
+    
+}
+#indigo:hover{
+    background-color:indigo;
+    transform: rotate(360deg);
+    color: transparent;
+}
+
+#turquoise{
+    transition: all 5s;
+    color:turquoise;
+    
+}
+#turquoise:hover{
+    background-color:turquoise;
+    transform: rotate(360deg);
+    color: transparent;
+}
+
+#brown{
+    transition: all 5s;
+    color:brown;
+    
+}
+#brown:hover{
+    background-color:brown;
+    transform: rotate(360deg);
+    color: transparent;
+}
+
+#gray{
+    transition: all 5s;
+    color:grey;
+    
+}
+#gray:hover{
+    background-color:gray;
+    transform: rotate(360deg);
+    color: transparent;
+}
+
+/*3rd column*/
+
+#white{
+    transition: all 5s;
+    color:black;
+    
+}
+#white:hover{
+    background-color:white;
+    transform: rotate(360deg);
+    color: transparent;
+}
+
+#emerald{
+    transition: all 5s;
+    color:emerald;
+    
+}
+#emerald:hover{
+    background-color:emerald;
+    transform: rotate(360deg);
+    color: transparent;
+}
+
+#coral{
+    transition: all 5s;
+    color:coral;
+    
+}
+#coral:hover{
+    background-color:coral;
+    transform: rotate(360deg);
+    color: transparent;
+}
+
+#GOLD{
+    transition: all 5s;
+    color:gold;
+    
+}
+#GOLD:hover{
+    background-color:gold;
+    transform: rotate(360deg);
+    color: transparent;
+}
+
+#MAGENTA{
+    transition: all 5s;
+    color:magenta;
+    
+}
+#MAGENTA:hover{
+    background-color:magenta;
+    transform: rotate(360deg);
+    color: transparent;
+}
+
+/*4th column*/
+
+#green{
+    transition: all 5s;
+    color:green;
+    
+}
+#green:hover{
+    background-color:green;
+    transform: rotate(360deg);
+    color: transparent;
+}
+
+#pink{
+    transition: all 5s;
+    color:pink;
+    
+}
+#pink:hover{
+    background-color:pink;
+    transform: rotate(360deg);
+    color: transparent;
+}
+
+#orangered{
+    transition: all 5s;
+    color:orangered;
+    
+}
+#orangered:hover{
+    background-color:orangered;
+    transform: rotate(360deg);
+    color: transparent;
+}
+
+#greenyellow{
+    transition: all 5s;
+    color:greenyellow;
+    
+}
+#greenyellow:hover{
+    background-color:greenyellow;
+    transform: rotate(360deg);
+    color: transparent;
+}
+
+#hotpink{
+    transition: all 5s;
+    color:hotpink;
+    
+}
+#hotpink:hover{
+    background-color:hotpink;
+    transform: rotate(360deg);
+    color: transparent;
+}
+
+/*5th column*/
+#bisque{
+    transition: all 5s;
+    color:bisque;
+    
+}
+#bisque:hover{
+    background-color:bisque;
+    transform: rotate(360deg);
+    color: transparent;
+}
+
+#rosybrown{
+    transition: all 5s;
+    color:rosybrown;
+    
+}
+#rosybrown:hover{
+    background-color:rosybrown;
+    transform: rotate(360deg);
+    color: transparent;
+}
+
+#goldenrod{
+    transition: all 5s;
+    color:goldenrod;
+    
+}
+#goldenrod:hover{
+    background-color:goldenrod;
+    transform: rotate(360deg);
+    color: transparent;
+}
+
+#rebeccapurple{
+    transition: all 5s;
+    color:rebeccapurple;
+    
+}
+#rebeccapurple:hover{
+    background-color:rebeccapurple;
+    transform: rotate(360deg);
+    color: transparent;
+}
+
+#burlywood{
+    transition: all 5s;
+    color:burlywood;
+    
+}
+#burlywood:hover{
+    background-color:burlywood;
+    transform: rotate(360deg);
+    color: transparent;
+}
+

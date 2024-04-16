@@ -1,0 +1,347 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+#a{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#a:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url(./images/A.jpeg );
+    
+    
+
+}
+#b{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#b:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url(./images/B.jpeg );
+    
+
+}
+#c{
+    transition: all 5s ;
+    color: blue;
+}
+
+#c:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url(./images/C\ IMG.jpeg);
+    z-index: 0;
+    font-size: 0;
+    
+
+}
+#d{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#d:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url(./images/D.jpeg );
+    
+
+}
+#e{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#e:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url(./images/E.jpeg);
+    
+
+}
+#f{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#f:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url(./images/F.jpeg);
+    
+
+}
+#g{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#g:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url( ./images/G.jpeg);
+    
+
+}
+#h{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#h:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url(./images/H.jpeg );
+    
+
+}
+#i{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#i:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url( ./images/I.jpeg);
+    
+
+}
+#j{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#j:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url(./images/J.jpeg);
+    
+
+}
+#k{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#k:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url(./images/K.jpeg );
+    
+
+}
+#l{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#l:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url(./images/L.jpeg);
+    
+
+}
+#m{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#m:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url(./images/M.jpeg );
+    
+
+}
+#n{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#n:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url(./images/N.jpeg );
+    
+
+}
+#o{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#o:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url(./images/O.jpeg );
+    
+
+}
+#p{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#p:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url(./images/P.jpeg);
+    
+
+}
+#q{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#q:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url(./images/Q.jpeg);
+    
+
+}
+#r{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#r:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url(./images/R.jpeg);
+    
+
+}
+#s{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#s:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url(./images/S.jpeg );
+    
+
+}
+#t{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#t:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url(./images/T.jpeg);
+    
+
+}
+#u{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#u:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url(./images/U.jpeg );
+    
+
+}
+#v{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#v:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url( ./images/V.jpeg);
+    
+
+}
+#w{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#w:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url(./images/W.jpeg );
+    
+
+}
+#x{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#x:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url(./images/X.jpeg);
+    
+
+}
+#y{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#y:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url(./images/Y.jpeg);
+    
+
+}
+#z{
+    transition: all 0.5s ;
+    color: blue;
+}
+
+#z:hover{
+    transform: rotate(360deg);
+    color:transparent;
+    background-image: url(./images/Z.jpeg );
+    
+
+}
+table{
+    width:1800px;
+    height: 1500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
